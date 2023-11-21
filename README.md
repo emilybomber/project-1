@@ -1,1 +1,1 @@
-# project-1
+This project was a collberation between Aygyul Nardelli, Michael Hesprich, Samantha Cook and Emily Bomber. This project was completed with the assitance of the instructor Tyler. Addtional resources used where, Chat GTP for the final statitical anaylis, Kagel for pulling data and Investopia for infomation about Okun's Law. 
